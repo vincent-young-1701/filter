@@ -32,13 +32,13 @@ npm run test
 
 ## Features
 
-- Build with latest React (Hooks, Context API, etc.)
+- Built with latest React (Hooks, Context API, etc.)
 - Search by URL (?search=keyword)
 - Fully accessible
 
 ## Contributing
 
-Made by me, [Vincent Young](vincent.young.1701@gmail.com).
+Made by me, [Vincent Young](vincent.young.1701@gmail.com) and nobody else.
 
 ## License
 
