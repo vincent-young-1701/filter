@@ -1,0 +1,14 @@
+.keyword-result {
+  background-color: #385692;
+  color: #ffffff;
+  border: 1px solid #385692;
+  border-radius: 5px;
+  margin-bottom: 0.625em;
+  padding: 4px;
+  display: inline-block;
+  text-align: center;
+  width: 90%;
+}
+.keyword-result:last-child {
+  margin-bottom: 0;
+}

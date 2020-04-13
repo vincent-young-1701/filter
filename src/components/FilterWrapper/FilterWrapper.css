@@ -1,0 +1,33 @@
+.filter-wrapper {
+  background-color: #dbe3f2;
+  border: 4px solid #4b74ba;
+  padding: 4.375em 2em 2.5em 2em;
+  display: inline-block;
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+
+.filter {
+  width: 12em;
+}
+
+.keyword-results {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  overflow-y: scroll;
+  height: 19.375em;
+}
+
+.keyword-results {
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+  scrollbar-width: none; /* Firefox */
+}
+.keyword-results::-webkit-scrollbar {
+  display: none; /* Safari and Chrome */
+}
+
+.h2 {
+  margin: -0.9375em 0 0;
+}

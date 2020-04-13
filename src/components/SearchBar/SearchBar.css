@@ -1,0 +1,16 @@
+.search-bar {
+  margin-bottom: 2.5em;
+}
+.search-bar .keyword-input {
+  color: #686868;
+  padding: 4px 6px;
+  font-style: italic;
+  width: 100%;
+  font-size: 14px;
+  border: none;
+  box-sizing: border-box;
+}
+.search-bar .keyword-input::placeholder {
+  color: #686868;
+  opacity: 1;
+}
